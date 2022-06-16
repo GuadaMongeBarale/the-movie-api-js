@@ -1,0 +1,19 @@
+{
+  "name": "the-movie-api",
+  "version": "1.0.0",
+  "description": "Consumo de la API TMDB con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuadaMongeBarale/the-movie-api-js.git"
+  },
+  "author": "Guadalupe Monge Barale <guadamongebarale@gamil.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuadaMongeBarale/the-movie-api-js/issues"
+  },
+  "homepage": "https://github.com/GuadaMongeBarale/the-movie-api-js#readme"
+}
